@@ -1,3 +1,2 @@
 include 'commons', 'updater', 'downsampler'
-include 'kafka-client'
 
